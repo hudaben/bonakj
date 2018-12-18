@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34d0a5d2-aaf6-4380-9f97-b994961183c6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fuwu.html" afterPath="$PROJECT_DIR$/fuwu.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -42,13 +41,13 @@
       <file leaf-file-name="fuwu.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fuwu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="222" column="35" lean-forward="false" selection-start-line="222" selection-start-column="35" selection-end-line="222" selection-end-column="35" />
+            <state relative-caret-position="425">
+              <caret line="106" column="54" lean-forward="false" selection-start-line="106" selection-start-column="54" selection-end-line="106" selection-end-column="54" />
               <folding>
-                <marker date="1545099661905" expanded="false" signature="1046:1116" ph="..." />
-                <marker date="1545099661905" expanded="true" signature="1117:1391" ph="..." />
-                <marker date="1545099661905" expanded="true" signature="1147:1384" ph="..." />
-                <marker date="1545099661905" expanded="true" signature="1215:1377" ph="..." />
+                <marker date="1545100622471" expanded="false" signature="1046:1116" ph="..." />
+                <marker date="1545100622471" expanded="true" signature="1117:1391" ph="..." />
+                <marker date="1545100622471" expanded="true" signature="1147:1384" ph="..." />
+                <marker date="1545100622471" expanded="true" signature="1215:1377" ph="..." />
               </folding>
             </state>
           </provider>
@@ -143,13 +142,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/contact.html" />
-        <option value="$PROJECT_DIR$/fuwu.html" />
         <option value="$PROJECT_DIR$/sitemap.html" />
         <option value="$PROJECT_DIR$/wangzhan.html" />
         <option value="$PROJECT_DIR$/web.html" />
         <option value="$PROJECT_DIR$/zixun.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/fuwu.html" />
       </list>
     </option>
   </component>
@@ -373,12 +372,12 @@
       <option name="presentableId" value="Default" />
       <updated>1545039095519</updated>
       <workItem from="1545039097066" duration="1698000" />
-      <workItem from="1545098943811" duration="1043000" />
+      <workItem from="1545098943811" duration="1679000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2741000" />
+    <option name="totallyTimeSpent" value="3377000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -558,13 +557,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fuwu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="222" column="35" lean-forward="false" selection-start-line="222" selection-start-column="35" selection-end-line="222" selection-end-column="35" />
+        <state relative-caret-position="425">
+          <caret line="106" column="54" lean-forward="false" selection-start-line="106" selection-start-column="54" selection-end-line="106" selection-end-column="54" />
           <folding>
-            <marker date="1545099661905" expanded="false" signature="1046:1116" ph="..." />
-            <marker date="1545099661905" expanded="true" signature="1117:1391" ph="..." />
-            <marker date="1545099661905" expanded="true" signature="1147:1384" ph="..." />
-            <marker date="1545099661905" expanded="true" signature="1215:1377" ph="..." />
+            <marker date="1545100622471" expanded="false" signature="1046:1116" ph="..." />
+            <marker date="1545100622471" expanded="true" signature="1117:1391" ph="..." />
+            <marker date="1545100622471" expanded="true" signature="1147:1384" ph="..." />
+            <marker date="1545100622471" expanded="true" signature="1215:1377" ph="..." />
           </folding>
         </state>
       </provider>
