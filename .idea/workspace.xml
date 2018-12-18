@@ -41,13 +41,13 @@
       <file leaf-file-name="fuwu.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fuwu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="106" column="54" lean-forward="false" selection-start-line="106" selection-start-column="54" selection-end-line="106" selection-end-column="54" />
+            <state relative-caret-position="170">
+              <caret line="106" column="48" lean-forward="false" selection-start-line="106" selection-start-column="48" selection-end-line="106" selection-end-column="48" />
               <folding>
-                <marker date="1545100622471" expanded="false" signature="1046:1116" ph="..." />
-                <marker date="1545100622471" expanded="true" signature="1117:1391" ph="..." />
-                <marker date="1545100622471" expanded="true" signature="1147:1384" ph="..." />
-                <marker date="1545100622471" expanded="true" signature="1215:1377" ph="..." />
+                <marker date="1545100928594" expanded="false" signature="1046:1116" ph="..." />
+                <marker date="1545100928594" expanded="true" signature="1117:1391" ph="..." />
+                <marker date="1545100928594" expanded="true" signature="1147:1384" ph="..." />
+                <marker date="1545100928594" expanded="true" signature="1215:1377" ph="..." />
               </folding>
             </state>
           </provider>
@@ -372,12 +372,12 @@
       <option name="presentableId" value="Default" />
       <updated>1545039095519</updated>
       <workItem from="1545039097066" duration="1698000" />
-      <workItem from="1545098943811" duration="1679000" />
+      <workItem from="1545098943811" duration="2075000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3377000" />
+    <option name="totallyTimeSpent" value="3773000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -458,13 +458,6 @@
     <entry file="file://$PROJECT_DIR$/uploadfiles/image/201509/7.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNAME">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
@@ -555,15 +548,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/fuwu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="106" column="54" lean-forward="false" selection-start-line="106" selection-start-column="54" selection-end-line="106" selection-end-column="54" />
+        <state relative-caret-position="170">
+          <caret line="106" column="48" lean-forward="false" selection-start-line="106" selection-start-column="48" selection-end-line="106" selection-end-column="48" />
           <folding>
-            <marker date="1545100622471" expanded="false" signature="1046:1116" ph="..." />
-            <marker date="1545100622471" expanded="true" signature="1117:1391" ph="..." />
-            <marker date="1545100622471" expanded="true" signature="1147:1384" ph="..." />
-            <marker date="1545100622471" expanded="true" signature="1215:1377" ph="..." />
+            <marker date="1545100928594" expanded="false" signature="1046:1116" ph="..." />
+            <marker date="1545100928594" expanded="true" signature="1117:1391" ph="..." />
+            <marker date="1545100928594" expanded="true" signature="1147:1384" ph="..." />
+            <marker date="1545100928594" expanded="true" signature="1215:1377" ph="..." />
           </folding>
         </state>
       </provider>
